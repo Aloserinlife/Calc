@@ -1,0 +1,2 @@
+C:\Users\artma\source\repos\CALC2\CALC2\x64\Debug\CALC2.vcxproj.AssemblyReference.cache
+C:\Users\artal\Desktop\CALC2\CALC2\CALC2\x64\Debug\CALC2.vcxproj.AssemblyReference.cache
